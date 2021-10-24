@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Stella <code>src/App.tsx</code> and save to reload.
+          Stella Snyk Demo <code>src/App.tsx</code> and save to reload.
         </p>
         <a
           className="App-link"
