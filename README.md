@@ -25,7 +25,7 @@ workflows: null
 
 ### Snyk
  - Created a snyk account
- - Copied snyk organizational ID from the snyk settings page
+ - Copied snyk Auth Token from the snyk settings page
 
 ### Circle CI
  - Create CircleCI project for repository above
